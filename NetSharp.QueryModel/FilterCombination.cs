@@ -1,4 +1,4 @@
-﻿namespace NetSharp.Query.Model
+﻿namespace NetSharp.QueryModel
 {
     /// <summary>
     /// 表示筛选组合逻辑

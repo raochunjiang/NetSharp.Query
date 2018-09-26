@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NetSharp.Query.Model
+namespace NetSharp.QueryModel
 {
     /// <summary>
     /// 表示分页项

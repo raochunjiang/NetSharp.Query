@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace NetSharp.Query.Model
+namespace NetSharp.QueryModel
 {
     /// <summary>
     /// 表示列表查询。

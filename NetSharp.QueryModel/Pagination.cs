@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace NetSharp.Query.Model
+namespace NetSharp.QueryModel
 {
     /// <summary>
     /// 表示分页信息。
