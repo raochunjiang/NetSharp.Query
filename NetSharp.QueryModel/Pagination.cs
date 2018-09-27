@@ -28,7 +28,7 @@ namespace NetSharp.QueryModel
         /// <summary>
         /// 获取总页数。
         /// </summary>
-        public int? IndexCount { get { return (int)(Total / Size + 1); } }
+        public int IndexCount { get { return (int)(Total <= Size ? 1 : Total/Size + 1); } }
 
         /// <summary>
         /// 获取下一个页码。无下一页时该属性值为 null。
